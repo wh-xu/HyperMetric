@@ -1,0 +1,8 @@
+torch 
+torchvision
+pandas>1.5.0
+numpy>1.21.0
+pytorch_metric_learning>2.2.0
+matplotlib
+seaborn
+
