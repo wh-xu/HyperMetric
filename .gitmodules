@@ -1,0 +1,3 @@
+[submodule "generalized-kronecker-product-decomposition"]
+	path = generalized-kronecker-product-decomposition
+	url = https://github.com/marawangamal/generalized-kronecker-product-decomposition.git
